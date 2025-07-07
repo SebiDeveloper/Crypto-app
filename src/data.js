@@ -793,8 +793,8 @@ export const cryptoAssests = [
     },
     {
         id: "ethereum",
-        amount: 5,  // 5
-        price: 2400,
+        amount: 0.72,  // 5
+        price: 200,
         date: new Date()
     },
 ]
